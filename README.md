@@ -1,4 +1,5 @@
-# RELAX-for-time-series
+# RELAX-for-time-series-Group 94
+
 Exploring Explainability for Time Series Representations Learned through Self-Supervised Learning
 
  The code uses a custom audio sample, but you can use any audio input of format ".WAV".
